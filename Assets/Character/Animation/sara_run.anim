@@ -13326,7 +13326,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
+    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -13336,7 +13336,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
+    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -13346,7 +13346,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
+    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -13386,7 +13386,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
+    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -13396,7 +13396,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
+    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -13406,7 +13406,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: root/pelvis_1/abdomen/chest/shoulder_L/arm_L_1/forearm_L_1
+    path: root/pelvis_1/hip/thigh_L_1/leg_L_1/foot_L_01/foot_L_02
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
